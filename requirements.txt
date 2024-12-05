@@ -1,0 +1,9 @@
+Flask==2.2.3
+opencv-python==4.7.0.72
+opencv-python-headless==4.7.0.72
+dlib==19.24.0
+imutils==0.5.4
+rembg==2.0.28
+Pillow==9.6.0
+numpy==1.24.3
+requests==2.31.0
